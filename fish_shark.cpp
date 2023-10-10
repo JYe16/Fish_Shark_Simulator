@@ -34,7 +34,7 @@ const char GHOST = '*';
 const int FISH_GENERATION = 20;
 const int SHARK_GENERATION = 40;
 const int PROC = 0;
-const int BIAS_VALUE = 0.2;
+const double BIAS_VALUE = 0.2;
 const string BLUE("\033[0;34m");
 const string GREEN("\033[0;32m");
 const string RESET("\033[0m");
